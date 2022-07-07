@@ -6,4 +6,4 @@ function SubmitButton() {
   )
 }
 
-export default SubmitButton
+export default SubmitButton;
