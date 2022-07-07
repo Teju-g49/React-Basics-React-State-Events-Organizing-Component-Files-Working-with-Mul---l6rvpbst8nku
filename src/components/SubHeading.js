@@ -1,7 +1,9 @@
 import React from 'react'
 
 function SubHeading() {
-    return (
-        <h5>Happy to solve you doubts.</h5>
-    )
+  return (
+    <div>SubHeading</div>
+  )
 }
+
+export default SubHeading
