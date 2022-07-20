@@ -9,8 +9,8 @@ const App = () => {
     <div id="main">
       <Heading />
       <SubHeading />
-      <SubmitButton />
       <InputQuery />
+      <SubmitButton />
     </div>
   )
 }
